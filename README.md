@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-260nw-1676060566.jpg)" alt="Developer Image" width="400"/>
+  <img src="https://github.com/FatimaaShahid/FatimaaShahid-/blob/main/programming-web-banner-best-languages-260nw-1676060566.jpg" alt="Developer Image" width="400"/>
 </p>
 
 <p align="center">
