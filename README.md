@@ -44,8 +44,8 @@ Apart from coding, I enjoy writing, photography, and calligraphy.
 
 ![leetcode](https://leetcard.jacoblin.cool/FatimaaShahid?theme=light&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap)
 
-<div class="my-6 p-4"><h3 class="text-2xl font-bold mb-4">Tools &amp; Languages</h3><div class="flex flex-wrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="python" style="width:60px;padding:0 5px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" title="oracle" style="width:60px;padding:0 5px"/>
-<img src="https://img.icons8.com/color/480/sql.png" alt="sql" title="sql" style="width:60px;padding:0 5px"/>
+## 💻 Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="python" style="width:60px;padding:0 5px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" title="oracle" style="width:60px;padding:0 5px"/><img src="https://img.icons8.com/color/480/sql.png" alt="sql" title="sql" style="width:60px;padding:0 5px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" style="width:60px;padding:0 5px"/><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" title="leetcode" style="width:60px;padding:0 5px"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" title="hackerrank" style="width:60px;padding:0 5px"/></div></div><hr/>
 </div></div><hr/>
 
 
