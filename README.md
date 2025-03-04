@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/fatimas_abstract" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="(https://medium.com/@fatimashahid781)" target="_blank">
+  <a href="https://medium.com/@fatimashahid781" target="_blank">
     <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
