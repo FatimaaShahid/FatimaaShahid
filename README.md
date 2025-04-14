@@ -29,7 +29,6 @@ Apart from coding, I enjoy writing, photography, and calligraphy.
 ## 📸 Side Projects & Interests  
 - 📷 **Photography Enthusiast:** [Instagram - @fatimas_abstract](https://www.instagram.com/fatimas_abstract)  
 - 📝 **Writing Blogs on Medium:** [Check out my blogs](https://medium.com/@fatimashahid781)
-- ✍️ **Calligraphy & Digital Art** [Check out my calligraphy](https://www.instagram.com/cursive_art_studio/)
 
 
 ### Coding Platforms Stats
@@ -50,8 +49,9 @@ Apart from coding, I enjoy writing, photography, and calligraphy.
 
 
 ## 🌍 Let's Connect!  
-📫 Reach me at: **[Fatima Shahid](fatimashahid781@gmail.com)**  
-💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/fatima-shahid-46723429a/)  
+<p>✉️ Reach me at : 
+<a href = "mailto:fatimashahid781@gmail.com">Fatima Shahid</a></p>
+<p>💬 Let's connect on <a href = "https://www.linkedin.com/in/fatima-shahid-46723429a/">LinkedIn</a> </p>
 
 ---
 
