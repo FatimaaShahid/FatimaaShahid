@@ -44,8 +44,19 @@ Apart from coding, I enjoy writing, photography, and calligraphy.
 ![leetcode](https://leetcard.jacoblin.cool/FatimaaShahid?theme=light&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap)
 
 ## 💻 Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="python" style="width:60px;padding:0 5px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" title="oracle" style="width:60px;padding:0 5px"/><img src="https://img.icons8.com/color/480/sql.png" alt="sql" title="sql" style="width:60px;padding:0 5px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" style="width:60px;padding:0 5px"/><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" title="leetcode" style="width:60px;padding:0 5px"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" title="hackerrank" style="width:60px;padding:0 5px"/></div></div><hr/>
-</div></div><hr/>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="python" style="width:60px;"/>
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" title="Django" style="width:60px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" title="CSS3" style="width:60px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" title="HTML5" style="width:60px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" title="oracle" style="width:60px;"/>
+  <img src="https://img.icons8.com/color/480/sql.png" alt="sql" title="sql" style="width:60px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="mysql" style="width:60px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" style="width:60px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" title="leetcode" style="width:60px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" title="hackerrank" style="width:60px;"/>
+</div>
+
 
 
 ## 🌍 Let's Connect!  
