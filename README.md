@@ -24,7 +24,8 @@ Apart from coding, I enjoy writing, photography, and calligraphy.
 
 ## 🚀 What I'm Working On   
 - 🔹 **Maintaining a LeetCode Streak & Solving HackerRank Problems** to polish my skills  
-- 🔹 **Competitive Programmer:** Constantly improving problem-solving techniques  
+- 🔹 **Competitive Programmer:** Constantly improving problem-solving techniques
+- 🌐 **Web Development** for building lightweight web applications and APIs
 
 ## 📸 Side Projects & Interests  
 - 📷 **Photography Enthusiast:** [Instagram - @fatimas_abstract](https://www.instagram.com/fatimas_abstract)  
