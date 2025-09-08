@@ -50,12 +50,16 @@ Apart from coding, I enjoy writing, photography, and calligraphy.
   <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" title="Django" style="width:60px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" title="CSS3" style="width:60px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" title="HTML5" style="width:60px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" title="oracle" style="width:60px;"/>
   <img src="https://img.icons8.com/color/480/sql.png" alt="sql" title="sql" style="width:60px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="mysql" style="width:60px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" style="width:60px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" title="leetcode" style="width:60px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="hackerrank" title="hackerrank" style="width:60px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" style="width:60px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" style="width:60px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" title="Google Colab" style="width:60px;"/>
+
+
 </div>
 
 
