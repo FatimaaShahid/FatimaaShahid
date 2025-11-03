@@ -40,6 +40,7 @@ Apart from coding, I enjoy writing, photography, and calligraphy.
 
 ![github](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaaShahid&theme=light)
 
+
 ### Leetcode
 
 ![leetcode](https://leetcard.jacoblin.cool/FatimaaShahid?theme=light&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap)
@@ -58,6 +59,9 @@ Apart from coding, I enjoy writing, photography, and calligraphy.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" style="width:60px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" style="width:60px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" title="Google Colab" style="width:60px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" title="Matplotlib" style="width:60px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" title="scikit-learn" style="width:60px;"/>
+
 
 
 </div>
