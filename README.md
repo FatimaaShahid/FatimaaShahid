@@ -36,14 +36,17 @@ Apart from coding, I enjoy writing, photography, and calligraphy.
 
 ### Github
 
-
-
-![github](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaaShahid&theme=light)
+![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FatimaaShahid&theme=default)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FatimaaShahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FatimaaShahid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaaShahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### Leetcode
 
 ![leetcode](https://leetcard.jacoblin.cool/FatimaaShahid?theme=light&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap)
+
 
 ## 💻 Tech Stack
 <div style="display: flex; align-items: center; gap: 10px;">
