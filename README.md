@@ -66,7 +66,7 @@ Passionate about building scalable backend systems, exploring AI, and solving ch
 ## 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 <img src="https://img.icons8.com/color/48/sql.png" title="SQL"/>
 </p>
 
@@ -87,7 +87,6 @@ Passionate about building scalable backend systems, exploring AI, and solving ch
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,vscode,git,github" />
-<br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="55" title="Google Colab"/>
 </p>
 
@@ -99,9 +98,7 @@ Passionate about building scalable backend systems, exploring AI, and solving ch
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60"/>
-</p>
-
----
+</p>---
 
 # 📊 GitHub Statistics
 
