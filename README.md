@@ -59,6 +59,7 @@ Passionate about building scalable backend systems, exploring AI, and solving ch
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,django,html,css" />
+<img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="50" title="Pydantic"/>
 </p>
 
 ---
