@@ -80,7 +80,9 @@ Passionate about building scalable backend systems, exploring AI, and solving ch
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
+<img src="https://ollama.com/public/ollama.png" width="55" title="Ollama"/>
 </p>
+
 
 ---
 
