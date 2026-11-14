@@ -1,109 +1,215 @@
-
+ 
 <p align="center">
-  <img src="https://github.com/FatimaaShahid/FatimaaShahid-/blob/main/programming-web-banner-best-languages-260nw-1676060566.jpg" alt="Banner" width="900"/>
+  <img src="./assets/banner.svg" width="100%" alt="Fatima Shahid"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Fatima Shahid</h1>
+<table align="center">
+<tr>
+<td width="190" align="center">
+  <img src="./assets/mascot.jpeg" width="165" alt="Mascot"/>
+</td>
+<td>
 
-<h3 align="center">
-Python Developer • AI/ML Enthusiast • CIS Undergraduate
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1500&color=8B9CF7&vCenter=true&width=520&height=36&lines=Hi%2C+I'm+Fatima;CIS+Undergrad+%40+NED+University;Python+%7C+AI%2FML+%7C+FPGA" alt="Typing SVG"/>
+
+**Backend systems, AI, and hardware.**  
+Karachi, Pakistan.
+
+<p>
+  <a href="https://github.com/FatimaaShahid"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fatima-shahid-46723429a/"><img src="https://img.icons8.com/color/48/linkedin.png" width="28" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/FatimaaShahid/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" alt="LeetCode"/></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@fatimashahid781"><img src="https://cdn.simpleicons.org/medium/FFFFFF" width="28" alt="Medium"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/fatimas_abstract"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="mailto:fatimashahid781@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" alt="Email"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/circuit-divider.svg" width="100%"/>
+
+<h2 align="center">ABOUT ME</h2>
+
+🎓 Computer and Information Systems Engineering Undergraduate  
+🐍 Backend Developer working primarily with Python  
+🤖 Interested in AI, Machine Learning, Microservices, and Backend Engineering  
+💻 Passionate about problem-solving and algorithmic thinking  
+✨ Exploring the intersection of software and hardware through practical projects  
+
+<img src="./assets/circuit-divider.svg" width="100%"/>
+
+<h2 align="center">TECH STACK</h2>
+
+## Backend & Web Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="60" title="Django" alt="Django"/>
+  <img
+  src="https://cdn.simpleicons.org/flask/FFFFFF"
+  width="60"
+  title="Flask"
+  alt="Flask"
+/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" title="FastAPI" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" title="JavaScript" alt="JavaScript"/>
+</p>
+
+<img src="./assets/circuit-divider.svg" width="100%"/>
+
+## Databases & Caching
 
 <p align="center">
-Passionate about building scalable backend systems, exploring AI, and solving challenging programming problems.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" title="MySQL" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="60" title="Redis" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="60" title="SQLite" alt="SQLite"/>
+</p>
+
+<img src="./assets/circuit-divider.svg" width="100%"/>
+
+## AI / Machine Learning
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" title="NumPy" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60" title="Pandas" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" title="Scikit-learn" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="60" title="Matplotlib" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" width="60" title="Seaborn" alt="Seaborn"/>
+</p>
+
+<img src="./assets/circuit-divider.svg" width="100%"/>
+
+## Hardware & Embedded Systems
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="60" title="Arduino" alt="Arduino"/>
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" width="60" title="ESP32 / Espressif" alt="Espressif"/>
+  <img src="https://img.shields.io/badge/Verilog-007ACC?style=for-the-badge&labelColor=222222" title="Verilog" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/FPGA-6A9C3B?style=for-the-badge&labelColor=222222" title="FPGA" alt="FPGA"/>
+</p>
+
+<img src="./assets/circuit-divider.svg" width="100%"/>
+
+### Tools & Development Environment
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" title="Docker" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" title="VS Code" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" title="Git" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60" title="GitHub" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="60" title="Google Colab" alt="Google Colab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="60" title="MATLAB" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge&labelColor=222222" title="Vivado" alt="Vivado"/>
+</p>
+
+<img src="./assets/circuit-divider.svg" width="100%"/>
+
+<h2 align="center">CORE EXPERTISE</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="58" title="Python" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="58" title="Data Structures & Algorithms" alt="DSA"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/arduino/00979D" width="58" title="Embedded Systems" alt="Embedded Systems"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/robot-2.png" width="58" title="AI Engineering" alt="AI Engineering"/>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fatima-shahid-46723429a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@fatimashahid781" target="_blank">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/fatimas_abstract" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:fatimashahid781@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <b>Python &nbsp;|&nbsp; DSA &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; AI Engineering</b>
 </p>
 
----
+<img src="./assets/circuit-divider.svg" width="100%"/>
 
-# 👩‍💻 About Me
-
-- 🎓 Computer and Information Systems Engineering Undergraduate
-- 🐍 Backend Developer using **Python**
-- 🤖 Interested in **AI**, **Microservices**, and **Backend Engineering**
-- 💻 Competitive Programmer passionate about problem solving
-- ✨ Always exploring new technologies and building practical projects
-
----
-
-# 🚀 Currently Working On
-
-- 🚀 **ZeroToShip** — A microservices-based project organized by the **CIS Coding Community**, focused on scalable backend development.
-- 🤖 **Event-Driven AI FAQ Chatbot** — Building an intelligent chatbot powered by event-driven architecture and modern backend technologies.
-- 🏆 **CertifyHub** — An automated certificate generation platform that streamlines certificate creation and management.
-- 📚 Exploring **Docker**, **FastAPI**, and **PostgreSQL** through real-world projects.
-- 💻 Maintaining my **LeetCode streak** while strengthening my Data Structures & Algorithms skills.
-
----
-
-# 🛠️ Tech Stack
-
-## 🌐 Backend & Web Development
+<h2 align="center">PROBLEM SOLVING</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,html,css" />
-<img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="50" title="Pydantic"/>
+  <a href="https://leetcode.com/u/FatimaaShahid/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="65" alt="LeetCode" title="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="65" alt="HackerRank" title="HackerRank"/>
+  </a>
 </p>
 
----
-
-## 🗄️ Databases
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-<img src="https://img.icons8.com/color/48/sql.png" title="SQL"/>
+  <b>500+ problems solved.</b> Countless approaches explored. Always one more problem to understand.
 </p>
 
----
+<img src="./assets/circuit-divider.svg" width="100%"/>
 
-## 🤖 AI / Machine Learning
+<h2 align="center">ACHIEVEMENTS</h2>
+
+🥇 First Place, NED Essay Writing Competition  
+💻 500+ LeetCode problems solved (Python + SQL)  
+🥈 Silver Level in SQL on HackerRank  
+🏁 Competed in ProBattle, Calico, MIT, TeknoFest, SMEC and SuperComp  
+✍️ 10+ articles published on Medium  
+🧩 CS50 Puzzle Day: 10/10  
+🛰️ Built a CanSat at Space Camp 2025  
+
+<img src="./assets/circuit-divider.svg" width="100%"/>
+
+<h2 align="center">BEYOND CODE</h2>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
-<img src="https://ollama.com/public/ollama.png" width="55" title="Ollama"/>
+  <i>Not everything I create runs on code.</i>
 </p>
 
+<table align="center">
+<tr>
+<td width="100" align="center">
+  <a href="https://www.instagram.com/fatimas_abstract">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" alt="Instagram" title="Photography"/>
+  </a>
+</td>
+<td>
+  PHOTOGRAPHY — Freezing the in-between.
 
----
+  Finding stories in ordinary moments, playing with light, and capturing perspectives that deserve a second look.
 
-## 🐳 Tools & Environment
+  <a href="https://www.instagram.com/fatimas_abstract">Explore my visual stories ↗</a>
+</td>
+</tr>
+<tr>
+<td width="100" align="center">
+  <a href="https://medium.com/@fatimashahid781">
+    <img src="https://cdn.simpleicons.org/medium/000000" width="55" alt="Medium" title="Technical Writing"/>
+  </a>
+</td>
+<td>
+  TECHNICAL WRITING — Making complex things click.
+
+  Turning technical explorations, lessons, and ideas into words that make knowledge easier to understand.
+
+  <a href="https://medium.com/@fatimashahid781">Read my writing ↗</a>
+</td>
+</tr>
+<tr>
+<td width="100" align="center">
+  ✒️
+</td>
+<td>
+  CALLIGRAPHY — Where patience becomes art.
+
+  Finding rhythm in every stroke, beauty in every curve, and meaning in the spaces between letters.
+</td>
+</tr>
+</table>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,vscode,git,github" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="55" title="Google Colab"/>
+  <i>Different mediums. Different expressions. One curious mind.</i>
 </p>
 
----
+<img src="./assets/circuit-divider.svg" width="100%"/>
 
-## 🏆 Competitive Programming
-
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60"/>
-</p>---
-
-# 📊 GitHub Statistics
+<h2 align="center">GITHUB STATS</h2>
 
 <p align="center">
 
@@ -121,74 +227,52 @@ Passionate about building scalable backend systems, exploring AI, and solving ch
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FatimaaShahid&theme=tokyonight"/>
 </p>
 
----
+<img src="./assets/circuit-divider.svg" width="100%"/>
 
-# 🏆 LeetCode
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/FatimaaShahid?theme=dark&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap"/>
-</p>
-
----
-
-# 📷 Beyond Coding
-
-- 📸 Photography enthusiast
-- ✍️ Writing technical blogs on Medium
-- 🖋️ Calligraphy
-- 🌱 Always learning new technologies
-
----
-
-# 🌐 Connect With Me
+<h2 align="center">LEETCODE</h2>
 
 <p align="center">
-
-<a href="https://github.com/FatimaaShahid" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fatima-shahid-46723429a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:fatimashahid781@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/FatimaaShahid/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
+  <img src="https://leetcard.jacoblin.cool/FatimaaShahid?theme=dark&font=Encode%20Sans%20Semi%20Expanded&ext=heatmap" alt="LeetCode Profile"/>
 </p>
+
+<img src="./assets/circuit-divider.svg" width="100%"/>
+
+<h2 align="center">CONNECT WITH ME</h2>
 
 <p align="center">
-
-<a href="https://www.hackerrank.com/" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@fatimashahid781" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/fatimas_abstract" target="_blank">
-  <img src="https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/FatimaaShahid?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/Projects-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/fatima-shahid-46723429a/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="42" alt="LinkedIn" title="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:fatimashahid781@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Email" title="Email"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/FatimaaShahid/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode" title="LeetCode"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="42" alt="HackerRank" title="HackerRank"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@fatimashahid781">
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="42" alt="Medium" title="Medium"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/fatimas_abstract">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" alt="Instagram" title="Instagram"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FatimaaShahid?tab=repositories">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" alt="Projects" title="Projects"/>
+  </a>
 </p>
 
----
+<img src="./assets/circuit-divider.svg" width="100%"/>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile!
-</h3>
-
-<p align="center">
-Let's build scalable systems, solve interesting problems, and keep learning together 🚀
-</p>
-
+<table align="center">
+<tr>
+<td width="150" align="center">
+  <img src="./assets/mascot.jpeg" width="125" alt="Fatima's mascot"/>
+</td>
+<td align="center">
+  <h2>Let's create something impactful together!</h2>
+  <i>Building, learning, and making ideas happen — one project at a time.</i>
+</td>
+</tr>
+</table>
