@@ -46,12 +46,7 @@ Karachi, Pakistan.
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="60" title="Django" alt="Django"/>
-  <img
-  src="https://cdn.simpleicons.org/flask/FFFFFF"
-  width="60"
-  title="Flask"
-  alt="Flask"
-/>
+  <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="60" title="Flask" alt="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" title="FastAPI" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" title="HTML5" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" title="CSS3" alt="CSS3"/>
@@ -83,13 +78,31 @@ Karachi, Pakistan.
 
 <img src="./assets/circuit-divider.svg" width="100%"/>
 
-## Hardware & Embedded Systems
+## FPGA & Digital Design
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Verilog_HDL-007ACC?style=for-the-badge&labelColor=222222" title="Verilog HDL" alt="Verilog HDL"/>
+  <img src="https://img.shields.io/badge/FPGA-6A9C3B?style=for-the-badge&labelColor=222222" title="FPGA" alt="FPGA"/>
+  <img src="https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge&labelColor=222222" title="Xilinx Vivado" alt="Vivado"/>
+  <img src="https://img.shields.io/badge/Artix--7_XC7A100T-ED1C24?style=for-the-badge&labelColor=222222" title="Xilinx Artix-7" alt="Artix-7"/>
+  <img src="https://img.shields.io/badge/Nexys_A7--100T-5B2C83?style=for-the-badge&labelColor=222222" title="Digilent Nexys A7-100T" alt="Nexys A7-100T"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FSM_Design-444444?style=for-the-badge&labelColor=222222" title="Finite State Machines" alt="FSM Design"/>
+  <img src="https://img.shields.io/badge/Testbench_%26_Simulation-444444?style=for-the-badge&labelColor=222222" title="Vivado Simulator (XSim)" alt="Testbench and Simulation"/>
+  <img src="https://img.shields.io/badge/XDC_Constraints-444444?style=for-the-badge&labelColor=222222" title="Pin and timing constraints" alt="XDC Constraints"/>
+  <img src="https://img.shields.io/badge/7--Segment_Display_Driver-444444?style=for-the-badge&labelColor=222222" title="Multiplexed 7-segment display" alt="7-Segment Display"/>
+  <img src="https://img.shields.io/badge/Button_Debouncing-444444?style=for-the-badge&labelColor=222222" title="Debouncing and synchronizers" alt="Button Debouncing"/>
+</p>
+
+<img src="./assets/circuit-divider.svg" width="100%"/>
+
+## Embedded Systems
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="60" title="Arduino" alt="Arduino"/>
   <img src="https://cdn.simpleicons.org/espressif/E7352C" width="60" title="ESP32 / Espressif" alt="Espressif"/>
-  <img src="https://img.shields.io/badge/Verilog-007ACC?style=for-the-badge&labelColor=222222" title="Verilog" alt="Verilog"/>
-  <img src="https://img.shields.io/badge/FPGA-6A9C3B?style=for-the-badge&labelColor=222222" title="FPGA" alt="FPGA"/>
 </p>
 
 <img src="./assets/circuit-divider.svg" width="100%"/>
@@ -118,14 +131,15 @@ Karachi, Pakistan.
   <img src="https://cdn.simpleicons.org/arduino/00979D" width="58" title="Embedded Systems" alt="Embedded Systems"/>
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/ios-filled/100/ffffff/robot-2.png" width="58" title="AI Engineering" alt="AI Engineering"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/electronics.png" width="58" title="FPGA & Digital Design" alt="FPGA & Digital Design"/>
 </p>
 
 <p align="center">
-  <b>Python &nbsp;|&nbsp; DSA &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; AI Engineering</b>
+  <b>Python &nbsp;|&nbsp; DSA &nbsp;|&nbsp; Embedded Systems &nbsp;|&nbsp; AI Engineering &nbsp;|&nbsp; FPGA &amp; Digital Design</b>
 </p>
 
 <img src="./assets/circuit-divider.svg" width="100%"/>
-
 <h2 align="center">PROBLEM SOLVING</h2>
 
 <p align="center">
